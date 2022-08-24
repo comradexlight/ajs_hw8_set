@@ -1,5 +1,10 @@
 {
   "name": "ajs_hw8_set",
+  "jest": {
+    "collectCoverageFrom": [
+      "src/js/team.js"
+    ]
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
